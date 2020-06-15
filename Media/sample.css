@@ -1,0 +1,73 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.bodycontact
+{
+    background-color: #A30078 ;
+}
+
+a{
+    text-decoration: none;
+}
+
+.contactheader{
+    color: #A30078;
+    margin: 0;
+}
+
+#contactcontainer {
+    background-color: #A30078;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contactHeader
+{
+    background-color: #A30078 ;
+    color: white;
+    text-align: center;
+    padding:10px;
+}
+
+#content {
+    padding: 10px;
+}
+
+#nav {
+    width: 180px;
+    float: left;
+}
+
+#nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#nav .contactNavItems {
+    font-weight: bold;
+    color:black;
+}
+
+#main {
+    width: 600px;
+    float: right;
+}
+
+.contactfooter{
+    clear: both;
+    padding: 10px;
+    background-color: #A30078;
+    color:black;
+    text-align: right;
+}
+
+.contactBox{
+    background-color: #A30078;
+    width: 525px;
+    border: 15px solid black;
+    padding: 15px;
+    margin: 20px, 0px, 0px, 0px;
+    color: black;
+}
